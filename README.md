@@ -15,11 +15,11 @@
 * The quantity they want
 
 ### Once user input is complete, it checks the MySQL database to see if the chosen item is in stock.
-## If yes, informs user that the item has been purchased.
+### If yes, informs user that the item has been purchased.
 
 ![](images/2itemPurchased.png)
 
-## And it will also update the database's stock quantity
+### And it will also update the database's stock quantity
 
 ![](images/3quantityUpdate.png)
 
