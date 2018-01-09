@@ -14,8 +14,8 @@
 * The item ID that they want
 * The quantity they want
 
-### Once user input is complete, it checks the MySQL database to see if the chosen item is in stock.
-### If yes, informs user that the item has been purchased.
+### Once user input is complete, it checks the MySQL database to see if the chosen item is in stock and displays the stock quantity.
+### If item is in stock, informs user that the item has been purchased.
 
 ![](images/2itemPurchased.png)
 
